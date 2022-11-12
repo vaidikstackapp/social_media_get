@@ -42,6 +42,7 @@ class MyApp extends StatelessWidget {
             fontFamily: 'Schyler1',
           ),
         )
+
         // MaterialApp(
         //   home: const SplashScreenView(),
         //   debugShowCheckedModeBanner: false,
